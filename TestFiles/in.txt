@@ -1,0 +1,12 @@
+int * a = [1, 2];
+char b = 34; // This is inline comment
+double c = (a + b)*c;
+if (a >= 0 ** 1) {
+    /* This is multiline annotation
+    The following line will include
+    an invalid declaration */
+    a = 232s4;
+}
+// This is oneline comment
+double test = 23234;
+test++;
